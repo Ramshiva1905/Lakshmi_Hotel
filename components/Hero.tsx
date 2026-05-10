@@ -6,7 +6,7 @@ export default function Hero() {
       {/* Background Image with Overlay */}
       <div className="hero-background">
         <img 
-          src="/IMAGE.PNG" 
+          src="/image.png" 
           alt="Grand luxury banquet hall with elegant purple and gold décor"
           className="hero-image"
         />
